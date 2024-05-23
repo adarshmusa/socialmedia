@@ -1,5 +1,4 @@
 {
     "explorer.fileNesting.enabled": true,
     "explorer.excludeGitIgnore": false,
-    "editor.fontSize": 8
 }
